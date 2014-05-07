@@ -1,0 +1,30 @@
+{
+  "name": "gaffa-konami",
+  "version": "1.0.0",
+  "description": "Gaffa behaviour to trigger on konami code",
+  "main": "konami.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MauriceButler/gaffa-konami.git"
+  },
+  "keywords": [
+    "konami",
+    "gaffa",
+    "behaviour"
+  ],
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/gaffa-konami/issues"
+  },
+  "peerDependencies": {
+    "gaffa": "^1.0.0"
+  },
+  "homepage": "https://github.com/MauriceButler/gaffa-konami",
+  "dependencies": {
+    "konami-js": "0.0.2"
+  }
+}
